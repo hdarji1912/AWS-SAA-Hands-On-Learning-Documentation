@@ -1,4 +1,4 @@
-## Day 19 — CloudFormation Security & Observability
+## 𝗗𝗮𝘆 𝟭𝟵 — 𝗖𝗹𝗼𝘂𝗱𝗙𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆 & 𝗘𝘃𝗲𝗻𝘁-𝗗𝗿𝗶𝘃𝗲𝗻 𝗔𝗪𝗦 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴
 
 ---
 ## 📌 Project Overview
